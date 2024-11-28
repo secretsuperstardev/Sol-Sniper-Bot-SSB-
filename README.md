@@ -41,7 +41,7 @@ First step:
 >
 > [1] ```git clone https://github.com/solsniperr/sol-sniper-bot```
 > 
->[2] ```cd sol-sniper-bot-main```
+>[2] ```cd sol-sniper-bot```
 > 
 >[3] ```npm install```
 >

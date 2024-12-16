@@ -105,5 +105,10 @@ You can update the list while script is running. Script will check for new value
 >
 > ![](/images/jupwsol.png)
 
+## Donation
+If you find this tools helpful, you can send some sol to this solana address to support future development.
+`8XhBmZFnSb1MEQxht6TaU61dFD2dFic2MEdGeynKbvXB`
+Thank you
+
 ## Disclaimer
 Use this script at your own risk. No financial advice.

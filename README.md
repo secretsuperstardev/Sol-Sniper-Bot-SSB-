@@ -107,7 +107,7 @@ You can update the list while script is running. Script will check for new value
 
 ## Donation
 If you find this tools helpful, you can send some sol to this solana address to support future development.
-`8XhBmZFnSb1MEQxht6TaU61dFD2dFic2MEdGeynKbvXB`
+`8oErUiYay1XjdynScoXWE9D7wUJFgAwGvN6jLN5vjsxN`
 Thank you
 
 ## Disclaimer
